@@ -1,0 +1,2 @@
+# LibrarianAdminSystem
+For Educational Purposes
